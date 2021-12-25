@@ -1,0 +1,10 @@
+D:\ООП\лаба3\лаба3\bin\Debug\лаба3.exe.config
+D:\ООП\лаба3\лаба3\bin\Debug\лаба3.exe
+D:\ООП\лаба3\лаба3\bin\Debug\лаба3.pdb
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.csprojAssemblyReference.cache
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.Form1.resources
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.Properties.Resources.resources
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.csproj.GenerateResource.cache
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.csproj.CoreCompileInputs.cache
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.exe
+D:\ООП\лаба3\лаба3\obj\Debug\лаба3.pdb
